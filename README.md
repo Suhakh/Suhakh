@@ -8,7 +8,7 @@ Hi there, I'm an AI Engineer passionate about Machine Learning and Deep Learning
 - **Languages:** Python, R, C++
 - **ML Libraries:** scikit-learn, XGBoost, LightGBM
 - **DL Frameworks:** TensorFlow, Keras, PyTorch
-- **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Docker, Jupyter Notebooks, Google Colab, Kaggle
+- **Tools:** Pandas, NumPy, Seaborn, Pycharm, Github,  Jupyter Notebooks, Google Colab, Kaggle, Azure (AWS).
 
 ## Projects
 - [brain_stroke_prediction] project can be found: (https://github.com/data-science-project-prdictions/stroke.git)\
