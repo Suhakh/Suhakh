@@ -1,19 +1,21 @@
 
-Hi there, I'm an AI Engineer passionate about Machine Learning and Deep Learning. Welcome to my GitHub profile!
+A girl in tech who gets way too excited about AI models and data.....
 
 ## About Me
 - 🌱 Learning and exploring AI, ML, and DL
 
 ## Skills
-- **Languages:** Python, R, C++
-- **ML Libraries:** scikit-learn, XGBoost, LightGBM
-- **DL Frameworks:** TensorFlow, Keras, PyTorch
-- **Tools:** Pandas, NumPy, Seaborn, Pycharm, Github,  Jupyter Notebooks, Google Colab, Kaggle, Azure (AWS).
+- **Languages:** Python, SQL, C++
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Hugging Face, Langchain, Ollama
+- **Applied ML:** Deep Learning (CNNs, Transformers), NLP, Computer Vision, Recommendation Systems, Ensemble
+& Predictive Models
+- **MLOps & Deployment:** MLflow, Docker, Kubernetes, Streamlit, Azure.
 
-## Projects
-- [brain_stroke_prediction] project can be found: (https://github.com/data-science-project-prdictions/stroke.git)\
-- [recommendation_system] project can be found: (https://github.com/Suhakh/recommendation_system.git)
-- [Reproduced the research paper "On Divergence Measures for Bayesian Pseudocoresets"]
-  
+
+Frameworks & Libraries: TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Hugging Face, Langchain, Ollama
+Applied ML: Deep Learning (CNNs, Transformers), NLP, Computer Vision, Recommendation Systems, Ensemble
+& Predictive Models
+MLOps & Deployment: MLflow, Docker, Kubernetes, Streamlit, Azure
+Soft Skills: Problem-solving, adaptability, communication, continuous learning
 Thanks for visiting! 🚀
 
