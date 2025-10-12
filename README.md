@@ -12,10 +12,4 @@ A girl in tech who gets way too excited about AI models and data.....
 - **MLOps & Deployment:** MLflow, Docker, Kubernetes, Streamlit, Azure.
 
 
-Frameworks & Libraries: TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Hugging Face, Langchain, Ollama
-Applied ML: Deep Learning (CNNs, Transformers), NLP, Computer Vision, Recommendation Systems, Ensemble
-& Predictive Models
-MLOps & Deployment: MLflow, Docker, Kubernetes, Streamlit, Azure
-Soft Skills: Problem-solving, adaptability, communication, continuous learning
-Thanks for visiting! 🚀
 
